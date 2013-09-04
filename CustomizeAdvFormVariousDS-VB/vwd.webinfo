@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0"?>
-<VisualWebDeveloper>
-
-    <!-- 
+<!-- 
   Visual Studio global web project settings.
-    -->
-
+-->
+<VisualWebDeveloper>
 
   <Globals>
     
+  
     
+  
     
-    
-    
+  
     <UserProperties UseAjaxifiedTemplates="True" UseJQuerySupport="True"/>
   </Globals>
 </VisualWebDeveloper>
