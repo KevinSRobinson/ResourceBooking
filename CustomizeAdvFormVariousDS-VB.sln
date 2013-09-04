@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CustomizeAdvFormVariousDS-VB", "..\..\..\Telerik Examples\CustomizeAdvFormVariousDS-VB", "{E5423420-50AE-406A-9136-7460061749D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{34274b9c-f876-4345-9a28-9e87b9c499b2}|Reports.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CustomizeAdvFormVariousDS-VB"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Telerik Examples\CustomizeAdvFormVariousDS-VB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomizeAdvFormVariousDS-VB\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CustomizeAdvFormVariousDS-VB"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Telerik Examples\CustomizeAdvFormVariousDS-VB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomizeAdvFormVariousDS-VB\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54774"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reports", "Reports\Reports.vbproj", "{34274B9C-F876-4345-9A28-9E87B9C499B2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://volunteernow.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Reports\\Reports.vbproj
+		SccProjectName1 = Reports
+		SccLocalPath1 = Reports
+		SccWebProject2 = true
+		SccProjectUniqueName2 = ..\\..\\..\\Telerik\u0020Examples\\CustomizeAdvFormVariousDS-VB
+		SccProjectName2 = CustomizeAdvFormVariousDS-VB
+		SccLocalPath2 = ..\\..\\..\\Telerik\u0020Examples\\CustomizeAdvFormVariousDS-VB
+		SccProjectEnlistmentChoice2 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5423420-50AE-406A-9136-7460061749D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5423420-50AE-406A-9136-7460061749D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5423420-50AE-406A-9136-7460061749D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5423420-50AE-406A-9136-7460061749D8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{34274B9C-F876-4345-9A28-9E87B9C499B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34274B9C-F876-4345-9A28-9E87B9C499B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34274B9C-F876-4345-9A28-9E87B9C499B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34274B9C-F876-4345-9A28-9E87B9C499B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

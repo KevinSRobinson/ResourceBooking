@@ -1,0 +1,14 @@
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\bin\Release\Reports.dll.config
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\bin\Release\Reports.dll
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\bin\Release\Reports.pdb
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\bin\Release\Reports.xml
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.CalendarReport.resources
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.Resources.resources
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.ShSqReport.resources
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\Reports.vbproj.GenerateResource.Cache
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\Reports.dll
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\Reports.xml
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\Reports.pdb
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.BookingFormReport.resources
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.BookingReport.resources
+C:\KevinDev\EquipmentBooking\CustomizeAdvFormVariousDS-VB\Reports\obj\Release\My.Reports.CostReport.resources
